@@ -39,8 +39,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Technologies Used
 This is my first personal Next Js project!!!😎😂 I made use of Next, Typescript, styled components and framer motion for animations of course.
-
-## Contributors
-
-I collaborated with a wonderful product designer to make this. Thanks so much @MichealAjala.
-Check him out on Behance: https://www.behance.net/michaelakintola
